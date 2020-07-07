@@ -1,0 +1,28 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+header{
+    background: url(img);
+    text-decoration-line: center;
+    color: white;
+    padding: 50px;
+    padding-bottom: 30px 30px 150px 30px;
+    background-position: center center;
+}
+
+header h1{
+    font-size: 3em;
+    margin-top: 80px;
+}
+.menu{
+    list-style: none;
+    float: right;
+    margin-right: 30px;
+}
+
+.menu li{
+    display: inline;
+    margin-right: 40px;
+}
+
